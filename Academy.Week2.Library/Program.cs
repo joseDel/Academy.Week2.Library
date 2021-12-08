@@ -72,6 +72,8 @@
 
 //Aggiungere eventuali entità utili.
 
+using Academy.Week2.Library.Repos;
 using LibraryManagement.ConsoleApp;
 
 Menu.Start();
+// Queries.MyQueries();

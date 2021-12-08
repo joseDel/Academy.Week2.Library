@@ -46,7 +46,7 @@ namespace Academy.Week2.Library.Repos
 
         public static List<Loan> loans = new List<Loan>()
         {
-            new Loan() {Id = 1, StartingDate = DateTime.Now, 
+            new Loan() {Id = 1, StartingDate = new DateTime(2021,12,1), 
             EndingDate = null, UserId = 1, DocId = 1}
         };
     }
